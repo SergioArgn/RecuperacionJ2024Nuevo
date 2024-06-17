@@ -1,5 +1,5 @@
 public class Ventana{
-  public static void Main(String args[]){
+  public static void main(String args[]){
   system.out.println("Hola mundo");
 
     system.out.println("Edito2");
